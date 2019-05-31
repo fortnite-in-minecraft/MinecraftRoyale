@@ -1,5 +1,5 @@
 ## What is it?
-It is a Minecraft:tm: [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_Hardcore) server.
+It is a Minecraft™️ [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_Hardcore) server.
 
 ## Game overview
 - The entry fee is $5.
