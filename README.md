@@ -1,7 +1,10 @@
 ## What is it?
 It is a Minecraft:tm: [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_Hardcore) server.
+
+## Game overview
 - The entry fee is $5.
 - The game is played in 1-week rounds.
+- You'll spawn randomly in the map
 - Every time you kill someone you get points.
 - The player with the most points wins the round and one ranking point.
 - The player with the most ranking points wins the game.
