@@ -1,3 +1,5 @@
+![epic game](minecraftroyale.png)
+
 ## What is it?
 It is a Minecraft™️ [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_Hardcore) server.
 
