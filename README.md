@@ -19,10 +19,9 @@ The winners share all entry fees like this:
 - (some charity): 20%
 
 ### Airdrops
-- If at least 2 people are online, there is a chance for an airdrop to occur!  
-- Random coordinates will be decided for the airdrop.  
-- You will be warned 30 minutes in advance.  
-- Once the airdrop occurs, a chest with (very good) loot will appear at those coordinates!
+- Airdrops will occur at random times (though they are much more likey when more people are online).
+- The coordinates will be announced in chat
+- A chest with (very good) loot will appear at those coordinates!
 
 ## How to enter
 ### Go to [our Patreon](https://www.patreon.com/minecraftroyale)
