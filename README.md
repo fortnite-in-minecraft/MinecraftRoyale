@@ -19,10 +19,10 @@ The winners share all entry fees like this:
 - (some charity): 20%
 
 ### Airdrops
-If at least 2 people are online, there is a chance for an airdrop to occur!  
-Random coordinates will be decided for the airdrop.  
-You will be warned 30 minutes in advance.  
-Once the airdrop occurs, a chest with (very good) loot will appear at those coordinates!
+- If at least 2 people are online, there is a chance for an airdrop to occur!  
+- Random coordinates will be decided for the airdrop.  
+- You will be warned 30 minutes in advance.  
+- Once the airdrop occurs, a chest with (very good) loot will appear at those coordinates!
 
 ## How to enter
 ### Go to [our Patreon](https://www.patreon.com/minecraftroyale)
@@ -32,7 +32,7 @@ Once the airdrop occurs, a chest with (very good) loot will appear at those coor
 4. Join the Minecraft server (server ip: minecraftroyale.tk)
 5. Play the game
 6. Cancel your Patreon pledge once the first one goes through so that you don't end up paying next month
-  - You only have to pay once, but Patreon requires us to charge you monthly. You can still play after you've paid once and canceled. 
+   - You only have to pay once, but Patreon requires us to charge you monthly. You can still play after you've paid once and canceled. 
 
 
 ## Countdown
