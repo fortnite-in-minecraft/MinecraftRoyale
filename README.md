@@ -1,7 +1,7 @@
 ![epic game](battleroyale-cropped.png)
 
 ## What is it?
-It is a Minecraft™️ [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_Hardcore) PVP/raiding server.
+It is a Minecraft™️ [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_Hardcore) battleroyale-esque PVP/raiding server.
 
 ## Game overview
 - The entry fee is $5.
