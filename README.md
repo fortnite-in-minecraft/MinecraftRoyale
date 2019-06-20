@@ -11,6 +11,14 @@ It is a Minecraft™️ [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_
 - The player with the most points wins the round and one ranking point.
 - The player with the most ranking points wins the game.
 
+## Discord
+- Join it here: https://discord.gg/hss4RQ9
+
+## Practice rounds
+- We will do a few practice rounds. 
+- These can be played **for free**.
+- [Join the Discord](https://discord.gg/hss4RQ9) for more info.
+
 ### Winning splits
 The winners share all entry fees like this:
 - 1st place: 50%
