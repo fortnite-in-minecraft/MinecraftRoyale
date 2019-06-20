@@ -1,12 +1,12 @@
 ![epic game](battleroyale-cropped.png)
 
 ## What is it?
-It is a Minecraft™️ [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_Hardcore) server.
+It is a Minecraft™️ [Ultra Hard Core](https://minecraft.gamepedia.com/Ultra_Hardcore) PVP/raiding server.
 
 ## Game overview
 - The entry fee is $5.
 - The game is played in 1-week rounds.
-- You'll spawn randomly in the map
+- You'll spawn randomly in the map.
 - Every time you kill someone you get points.
 - The player with the most points wins the round and one ranking point.
 - The player with the most ranking points wins the game.
@@ -18,9 +18,19 @@ The winners share all entry fees like this:
 - 3rd place: 10%
 - (some charity): 20%
 
+### Some mechanics
+- There is no plot / land / faction protection.
+- The worldborder shrinks for a while, then stopps, and then shrinks again until the end of the round.
+- If you log in earily and then leave for a while, the worldborder might have already passed you. You will die pretty quickly if this happens.
+- Your inventory is cleared between rounds. This includes health, inventory, enderchest, and more.
+
+### Loot Chests
+- Loot chests can be found throughout the map as random chests on the surface.
+- They contain random loot!
+
 ### Airdrops
 - Airdrops will occur at random times (though they are much more likey when more people are online).
-- The coordinates will be announced in chat
+- The coordinates will be announced in chat.
 - A chest with (very good) loot will appear at those coordinates!
 
 ## How to enter
@@ -40,4 +50,6 @@ The winners share all entry fees like this:
 Made via https://www.sendtric.com/
 
 ## Some fine print
-Due to the fact that we use Patreon as our money processor, 7.9% of each purchase and $.30 goes to Patreon as the cost for the page and currency processing. This is basically unaviodable. The actual amount that we recieve goes towards the winners and the charity. In other words, if 25 people sign up for $5 each, the first place winner will recieve less than $50.
+Due to the fact that we use Patreon as our money processor, 7.9% of each purchase and $.30 goes to Patreon as the cost for the page and currency processing. This is basically unaviodable. Sorry. The actual amount that we recieve goes towards the winners and the charity. In other words, if 25 people sign up for $5 each, the first place winner will recieve less than $50.
+
+We are not affiliated with Discord, Minecraft, Mojang, Microsoft, Fortnite, Epic Games, or EA.
