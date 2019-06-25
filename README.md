@@ -31,6 +31,7 @@ The winners share all entry fees like this:
 - The worldborder shrinks for a while, then stopps, and then shrinks again until the end of the round.
 - If you log in earily and then leave for a while, the worldborder might have already passed you. You will die pretty quickly if this happens.
 - Your inventory is cleared between rounds. This includes health, inventory, enderchest, and more.
+- You get extra points (+5) if you kill someone with more points than you.
 
 ### Loot Chests
 - Loot chests can be found throughout the map as random chests on the surface.
